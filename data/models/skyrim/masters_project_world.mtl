@@ -1,0 +1,4082 @@
+# Blender MTL File: 'masters_project_world.blend'
+# Material Count: 314
+
+newmtl CaveGEWall01:11.Mat
+Ns 250.000000
+Ka 3.000000 3.000000 3.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall05_n.dds
+map_Kd CaveBaseWall05.dds
+map_Ks CaveBaseWall05_n.dds
+
+newmtl CaveGEWall01:11.Mat.001
+Ns 250.000000
+Ka 3.000000 3.000000 3.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall05_n.dds
+map_Kd CaveBaseWall05.dds
+map_Ks CaveBaseWall05_n.dds
+
+newmtl CaveGEWall01:9.Mat
+Ns 250.000000
+Ka 6.670000 6.670000 6.670000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall03_n.dds
+map_Kd CaveBaseWall03.dds
+map_Ks CaveBaseWall03_n.dds
+
+newmtl CaveGEWall01:9.Mat.001
+Ns 250.000000
+Ka 6.670000 6.670000 6.670000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall03_n.dds
+map_Kd CaveBaseWall03.dds
+map_Ks CaveBaseWall03_n.dds
+
+newmtl CaveGEWall02:11.Mat
+Ns 250.000000
+Ka 3.000000 3.000000 3.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall05_n.dds
+map_Kd CaveBaseWall05.dds
+map_Ks CaveBaseWall05_n.dds
+
+newmtl CaveGEWall02:9.Mat
+Ns 250.000000
+Ka 6.670000 6.670000 6.670000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump CaveBaseWall03_n.dds
+map_Kd CaveBaseWall03.dds
+map_Ks CaveBaseWall03_n.dds
+
+newmtl FXWaterfallBodyTallInner01.Mat
+Ns 250.000000
+Ka 0.800000 0.800000 0.800000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump FXwaterTile01LOD_n.dds
+map_Kd FXwaterTile01LOD.dds
+map_Ks FXwaterTile01LOD_n.dds
+
+newmtl ImpLHall1Way01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:2.Mat.002
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:2.Mat.003
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:2.Mat.004
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:2.Mat.005
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat.003
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat.004
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat.005
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:7.Mat.006
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat.002
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat.003
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat.004
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall1Way01:9_-_L1_Brace:9.Mat.005
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall2Way01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall2Way01:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall2Way01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall2Way01:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall2Way01:9_-_L1_Brace:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall2Way01:9_-_L1_Brace:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall2Way02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall2Way02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall2Way02:9_-_L1_Brace03:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHall4Way01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHall4Way01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHall4Way01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallDeadEnd02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallDeadEnd02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallDeadEnd02:9_-_L1_Brace09:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallDoor01:2_-_L1_Brace20:2.001.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallDoor01:2_-_L1_Brace20:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallDoor01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLHallDoor01:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLHallDoor01:4_-_L1_Brace20:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLHallDoor01:4_-_L1_Brace20:4.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLHallDoor01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallDoor01:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallDoor01:9_-_L1_Brace20:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallDoor01:9_-_L1_Brace20:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallDoor02:2_-_L1_Brace25:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallDoor02:2_-_L1_Brace25:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallDoor02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLHallDoor02:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLHallDoor02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallDoor02:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallDoor02:9_-_L1_Brace25:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallDoor02:9_-_L1_Brace25:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallStairs01:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLHallStairs01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallStairs01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallStairs01:9_-_L1_Brace21:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLHallStairs02:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLHallStairs02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLHallStairs02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLHallStairs02:9_-_L1_Brace22:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomCorner01:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomCorner01:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomCorner01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomCorner01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomCorner01:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomCorner01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomCorner01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomCorner02:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomCorner02:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomCorner02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomCorner02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomCorner02:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomCorner02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomCorner02:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomCorner03:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomCorner03:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomCorner03:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomCorner03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomCorner03:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomCorner03:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomCorner03:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomCorner04:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomCorner04:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomCorner04:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomCorner04:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomCorner04:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomCorner04:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomCorner04:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomDoor01:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomDoor01:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomDoor01:2_-_L1_Brace60:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomDoor01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomDoor01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomDoor01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomDoor03:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomDoor03:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomDoor03:2_-_L1_Brace62:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomDoor03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomDoor03:4_-_L1_Brace62:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomDoor03:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomDoor03:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomICorner01:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomICorner01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomICorner01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomICorner01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomICorner01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomICorner02:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomICorner02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomICorner02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomICorner02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomICorner02:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomICorner03:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomICorner03:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomICorner03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomICorner03:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomICorner03:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomICorner04:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomICorner04:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomICorner04:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomICorner04:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomICorner04:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomMid01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomMid01:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomMid01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomMid01:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomMid01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomMid01:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomMid01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomMid01:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall01:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall01:11.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall01:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall01:12.Mat.001
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall01:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall01:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall01:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall01:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall01:4.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall01:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall01:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall01:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall01:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall02:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall02:11.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall02:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall02:12.Mat.001
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall02:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall02:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall02:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall02:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall02:4.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall02:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall02:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall02:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall02:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall03:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall03:11.Mat.002
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall03:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall03:12.Mat.002
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall03:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall03:2.Mat.002
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall03:3.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall03:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall03:4.Mat.002
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall03:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall03:7.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall03:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall03:9.Mat.002
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall04:11.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall04:11.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall04_n.dds
+map_Kd ImpWall04.dds
+map_Ks ImpWall04_n.dds
+
+newmtl ImpLRoomWall04:12.Mat
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall04:12.Mat.001
+Ns 250.000000
+Ka 5.120000 5.120000 5.120000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall05_n.dds
+map_Kd ImpWall05.dds
+map_Ks ImpWall05_n.dds
+
+newmtl ImpLRoomWall04:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall04:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpLRoomWall04:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall04:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpLRoomWall04:4.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall04:4.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl ImpLRoomWall04:7.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall04:7.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorStone01_n.dds
+map_Kd ImpFloorStone01.dds
+map_Ks ImpFloorStone01_n.dds
+
+newmtl ImpLRoomWall04:9.Mat
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpLRoomWall04:9.Mat.001
+Ns 250.000000
+Ka 5.210000 5.210000 5.210000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall03_n.dds
+map_Kd ImpWall03.dds
+map_Ks ImpWall03_n.dds
+
+newmtl ImpRoomCorner01:2_-_L1_Brace:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomCorner01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomCorner02:2_-_L1_Brace42:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomCorner02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomCorner03:2_-_L1_Brace41:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomCorner03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomCorner04:2_-_L1_Brace40:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomCorner04:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomDoor02:2_-_L1_Brace50:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomDoor02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomDoor03:2_-_L1_Brace52:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomDoor03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.002
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.003
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.004
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.005
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.006
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:2_-_L1_Brace:2.Mat.007
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomMid01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.003
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.004
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.005
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.006
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomMid01:3.Mat.007
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall01:2_-_L1_Brace04:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall01:2_-_L1_Brace04:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall01:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall01:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall02:2_-_L1_Brace37:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall02:2_-_L1_Brace37:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall02:2_-_L1_Brace37:2.Mat.002
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall02:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall02:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall02:3.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall03:2_-_L1_Brace39:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall03:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall04:2_-_L1_Brace38:2.Mat
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall04:2_-_L1_Brace38:2.Mat.001
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall04:2_-_L1_Brace38:2.Mat.002
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall04:2_-_L1_Brace38:2.Mat.003
+Ns 250.000000
+Ka 2.760000 2.760000 2.760000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWall01_n.dds
+map_Kd ImpWall01.dds
+map_Ks ImpWall01_n.dds
+
+newmtl ImpRoomWall04:3.Mat
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall04:3.Mat.001
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall04:3.Mat.002
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl ImpRoomWall04:3.Mat.003
+Ns 250.000000
+Ka 2.940000 2.940000 2.940000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpFloorMuddy01_n.dds
+map_Kd ImpFloorMuddy01.dds
+map_Ks ImpFloorMuddy01_n.dds
+
+newmtl L1_Brace.001.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.001.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.002
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.003
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.004
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.005
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.006
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.007
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.008
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.009
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.010
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.011
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.012
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.013
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace.Mat.014
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace03.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace04.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace04.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace09.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace21.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace22.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace25.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace25.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace37.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace37.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace37.Mat.002
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace38.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace38.Mat.001
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace38.Mat.002
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace38.Mat.003
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace39.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace40.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace41.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace42.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace50.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl L1_Brace52.Mat
+Ns 250.000000
+Ka 1.960000 1.960000 1.960000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump ImpWood01_n.dds
+map_Kd ImpWood01.dds
+map_Ks ImpWood01_n.dds
+
+newmtl Ripples01:0.Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1065353216.000000
+illum 9
+map_Kd WaterRainRipples.dds
+map_d WaterRainRipples.dds
+
+newmtl Ripples02.Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.110335 0.110335 0.110335
+Ni 1.450000
+d 1065353216.000000
+illum 9
+map_Kd WaterRainRipples.dds
+map_d WaterRainRipples.dds
+
+newmtl Ripples03.Mat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.659911 0.659911 0.659911
+Ni 1.450000
+d 1065353216.000000
+illum 9
+map_Kd WaterRainRipples.dds
+map_d WaterRainRipples.dds
+
+newmtl RockCliff01:0.Mat
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Dirt02_N.dds
+map_Kd Dirt02.dds
+map_Ks Dirt02_N.dds
+
+newmtl RockCliff01:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockCliff01:3.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab01_N.dds
+map_Kd MountainSlab01.dds
+map_Ks MountainSlab01_N.dds
+
+newmtl RockCliff01:8.Mat
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Rocks01_n.dds
+map_Kd Rocks01.dds
+map_Ks Rocks01_n.dds
+map_d Rocks01.dds
+
+newmtl RockL01:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL01:1.Mat.001
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL01:1.Mat.002
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL01:1.Mat.003
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL01:1.Mat.004
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL02:0.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab01_N.dds
+map_Kd MountainSlab01.dds
+map_Ks MountainSlab01_N.dds
+
+newmtl RockL02:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL03:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.001
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.002
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.003
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.004
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.005
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.006
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL04:1.Mat.007
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.001
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.002
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.003
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.004
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.005
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.006
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockL05:1.Mat.007
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab02_N.dds
+map_Kd MountainSlab02.dds
+map_Ks MountainSlab02_N.dds
+
+newmtl RockShelf01:0.Mat
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Dirt02_N.dds
+map_Kd Dirt02.dds
+map_Ks Dirt02_N.dds
+
+newmtl RockShelf01:0.Mat.001
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Dirt02_N.dds
+map_Kd Dirt02.dds
+map_Ks Dirt02_N.dds
+
+newmtl RockShelf01:3_-_L2_RockShelf01:3.Mat
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab01_N.dds
+map_Kd MountainSlab01.dds
+map_Ks MountainSlab01_N.dds
+
+newmtl RockShelf01:3_-_L2_RockShelf01:3.Mat.001
+Ns 250.000000
+Ka 1.870000 1.870000 1.870000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump MountainSlab01_N.dds
+map_Kd MountainSlab01.dds
+map_Ks MountainSlab01_N.dds
+
+newmtl RockShelf01:9.Mat
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Rocks01_n.dds
+map_Kd Rocks01.dds
+map_Ks Rocks01_n.dds
+
+newmtl RockShelf01:9.Mat.001
+Ns 250.000000
+Ka 0.300000 0.300000 0.300000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Rocks01_n.dds
+map_Kd Rocks01.dds
+map_Ks Rocks01_n.dds

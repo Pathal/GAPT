@@ -1,0 +1,211 @@
+#version 460
+
+#extension GL_EXT_scalar_block_layout : require
+#extension GL_EXT_ray_query : require
+
+#define ROWS 2
+#define COLS 32
+#define WORKGROUP_SIZE 32
+
+layout (local_size_x = WORKGROUP_SIZE, local_size_y = 1, local_size_z = 1) in;
+
+struct Particle {
+	vec4 pos;
+	vec4 vel;
+	vec4 uv;
+	vec4 normal;
+	float pinned;
+};
+
+layout(binding = 1, set = 0) uniform accelerationStructureEXT tlas;
+layout(binding = 2, set = 0, scalar) buffer Vertices {
+  vec3 vertices[];
+};
+layout(binding = 3, set = 0, scalar) buffer Indices {
+  uint indices[];
+};
+
+layout(std430, binding = 1, set = 1) buffer gaptOUT {
+	float results[ROWS * COLS];
+};
+
+layout(binding = 1, set = 2) uniform UBO {
+	int output_channels_rows;
+	int output_channels_cols;
+	vec3 source_location;
+	vec3 listener_position;
+	vec3 lookat;
+	uint bitmask;
+	float listener_size;
+} params;
+
+//http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html
+// Lets do this "Hammersley Points" thing. It sounds good.
+const float PI = 3.14159265358979;
+
+vec3 hemisphereSample_uniform(float u, float v) {
+	float phi = v * 2.0 * PI;
+	float cosTheta = 1.0 - u;
+	float sinTheta = sqrt(1.0 - cosTheta * cosTheta);
+	return vec3(cos(phi) * sinTheta, sin(phi) * sinTheta, cosTheta);
+}
+
+float radicalInverse_VdC(uint bits) {
+	bits = (bits << 16u) | (bits >> 16u);
+	bits = ((bits & 0x55555555u) << 1u) | ((bits & 0xAAAAAAAAu) >> 1u);
+	bits = ((bits & 0x33333333u) << 2u) | ((bits & 0xCCCCCCCCu) >> 2u);
+	bits = ((bits & 0x0F0F0F0Fu) << 4u) | ((bits & 0xF0F0F0F0u) >> 4u);
+	bits = ((bits & 0x00FF00FFu) << 8u) | ((bits & 0xFF00FF00u) >> 8u);
+	return float(bits) * 2.3283064365386963e-10; // / 0x100000000
+}
+
+vec2 hammersley2d(uint i, uint N) {
+	return vec2(float(i)/float(N), radicalInverse_VdC(i));
+}
+
+// Pseudo Random algorithm thanks to NVidia! 
+// Steps the RNG and returns a floating-point value between 0 and 1 inclusive.
+float stepAndOutputRNGFloat(inout uint rngState) {
+  // Condensed version of pcg_output_rxs_m_xs_32_32, with simple conversion to floating-point [0,1].
+  rngState  = rngState * 747796405 + 1;
+  uint word = ((rngState >> ((rngState >> 28) + 4)) ^ rngState) * 277803737;
+  word      = (word >> 22) ^ word;
+  return float(word) / 4294967295.0f;
+}
+
+float intersects_listener(vec3 origin, vec3 direction, vec3 spherepos, float radius) {
+	float t0, t1;
+	vec3 L = spherepos - origin; 
+	float tca = dot(L, direction);
+	float d2 = dot(L, L) - tca * tca; 
+	if (d2 > radius) return -1; 
+	float thc = sqrt(radius - d2); 
+	t0 = tca - thc; 
+	t1 = tca + thc; 
+
+	if (t0 > t1) {
+		float temp = t0;
+		t0 = t1;
+		t1 = temp;
+	}
+ 
+	if (t0 < 0) { 
+		t0 = t1;
+	}
+ 
+	return t0; 
+}
+
+void main() {
+	uvec3 id = gl_GlobalInvocationID; // gl_GlobalInvocationID is equal to gl_WorkGroupID * gl_WorkGroupSize + gl_LocalInvocationID.
+	
+	rayQueryEXT rayQuery;
+	int table[ROWS][COLS] = {	{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
+								{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
+							};
+	uint ray_count = 0;
+	uint num_of_samples = 10000;
+	const float DISTANCE_LIMIT = 1.3*344; // based on RT60 of 1.3
+	const float tMin = 0.001;
+	const float tMax = DISTANCE_LIMIT;
+	const vec3 upVec = {0,1,0};
+	uint rngseed = gl_GlobalInvocationID.x;
+
+	while (ray_count < num_of_samples) {
+		vec2 rand = hammersley2d(ray_count, num_of_samples);
+		vec3 direction = hemisphereSample_uniform(rand.x, rand.y);
+		vec3 origin = params.source_location;
+		
+
+		/* Start traversal: return false if traversal is complete
+		 * 
+		 * I still don't get why THIS is the syntax!
+		 * This should be some keyword like 'awaitRayQuery;' */
+		int total_distance = 0;
+		while(total_distance < DISTANCE_LIMIT) {
+			// builds the structure, then traverses until found
+			rayQueryInitializeEXT(rayQuery, tlas, gl_RayFlagsOpaqueEXT, params.bitmask, origin, tMin, direction, tMax);
+			while(rayQueryProceedEXT(rayQuery)) { /* Spins until a closest triangle is determined */ }
+
+			if(rayQueryGetIntersectionTypeEXT(rayQuery, true) != gl_RayQueryCommittedIntersectionTriangleEXT) {
+				// Ray never hit a triangle
+				// Let's restart with a new sample
+				break;
+			}
+
+			// here we have to get the primitive index, and then keep generating values from that
+			// why doesn't rayQueryGetIntersectionWorldCoordinates() exist to do this for us? I have no idea.
+			const int primitiveID = rayQueryGetIntersectionPrimitiveIndexEXT(rayQuery, true);
+
+			// Get the indices of the vertices of the triangle
+			const uint i0 = indices[3 * primitiveID + 0];
+			const uint i1 = indices[3 * primitiveID + 1];
+			const uint i2 = indices[3 * primitiveID + 2];
+
+			// Get the vertices of the triangle
+			const vec3 v0 = vertices[i0];
+			const vec3 v1 = vertices[i1];
+			const vec3 v2 = vertices[i2];
+
+			// Interpolate with the barycentric coordinates
+			vec3 barycentrics = vec3(0.0, rayQueryGetIntersectionBarycentricsEXT(rayQuery, true));
+			barycentrics.x = 1.0 - barycentrics.y - barycentrics.z;
+
+			// Compute the position of the intersection in object space
+			const vec3 objectSpaceIntersection = barycentrics.x * v0 + barycentrics.y * v1 + barycentrics.z * v2;
+			// Thank's Khronos for making rayQueryGetIntersectionObjectToWorldEXT() return a 3x4 matrix. Super helpful here.
+			const vec4 wPos = mat4(rayQueryGetIntersectionObjectToWorldEXT(rayQuery, true), 0, 0, 0, 1) * vec4(objectSpaceIntersection, 1);
+			// Seriously, this should be a built in function.
+			const float dist = distance(wPos.xyz, origin);
+
+			total_distance += dist;
+			if(DISTANCE_LIMIT < total_distance) break;
+
+			float caught = intersects_listener(origin, direction, params.listener_position, params.listener_size);
+			if(0 < caught && caught < dist) {
+				total_distance -= (dist-caught);
+				// it hit the listener!
+				vec3 right = cross(params.lookat, upVec);
+				float upcheck = dot(direction, upVec);
+				float rightcheck = dot(direction, right);
+				float forwardcheck = dot(direction, params.lookat);
+				// this math should be more modular / dynamic...
+				// but we are limited to headphones right now so...
+				int column = int(COLS * (total_distance / DISTANCE_LIMIT));
+				if(rightcheck < 0) {
+					table[0][column] += 1;
+				} else {
+					table[1][column] += 1;
+				}
+				break;
+			} else {
+				// we're still bouncin'...
+				const vec3 objectNormal = normalize(cross(v1 - v0, v2 - v0));
+				float rand_val = stepAndOutputRNGFloat(rngseed);
+				origin = wPos.xyz;
+
+				if(rand_val < 0.02) {
+					// transmissive
+				} else if(rand_val < 0.98) {
+					// reflective
+					direction = normalize(reflect(direction, objectNormal));
+				} else {
+					// aborbed
+					break;
+				}
+			}
+		}
+
+		ray_count++;
+	}
+
+	// Now we merge to the SSBO
+	for(uint i = gl_LocalInvocationID.x; i < (COLS+gl_LocalInvocationID.x); i++) {
+		// probably redundant to do it every loop, but just in case the shader compiler
+		// messes with the instructions to "optimize it" then I need to be safe here.
+		barrier();
+		for(uint j = 0; j < ROWS; j++) {
+			results[i%COLS+COLS*j] = table[j][i%COLS];
+		}
+	}
+}

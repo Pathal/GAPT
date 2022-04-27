@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.spv
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMAKE
+build/.vs/*
+build/CMakeFiles/*
+vulkan_asset_pack_gltf.zip
+build/*
+cmake/*
+external/*
+
+# VStudio
+*.log
+*.tlog
+*.filters
+*.vcxproj
+
+
+# Data
+data/textures/*
+
